@@ -1,0 +1,32 @@
+{
+  "name": "bootstrap",
+  "description": "",
+  "version": "1.0.0",
+  "authors": [
+    "Qusai Tabbal <qusaitabbal@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "bootstrap",
+    "boilerplate",
+    "skeleton",
+    "scaffolding",
+    "scaffold",
+    "theme",
+    "themes",
+    "kickstart",
+    "kickstarter",
+    "micromata",
+    "workflow"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2",
+    "jquery": "^2.1.3"
+
+  }
+}
